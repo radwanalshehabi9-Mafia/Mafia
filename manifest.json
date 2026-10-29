@@ -1,0 +1,16 @@
+{
+  "name": "المافيا",
+  "short_name": "المافيا",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0508",
+  "theme_color": "#0a0508",
+  "icons": [
+    { "src": "icon-192-1.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-1.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
